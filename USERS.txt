@@ -1,0 +1,27 @@
+STUDENT
+asad01
+abc
+Mike
+Zane
+Bachelor Of Computer Science
+CSIT121
+
+STUDENT
+Student
+StdPass
+John
+Cena
+Bachelor Of Business
+ECON100
+
+LIBRARIAN
+Librarian
+LibPass
+Sarah
+Jane
+
+ADMIN
+Admin
+AdminPass
+Sammy
+Dan
